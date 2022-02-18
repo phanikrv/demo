@@ -1,0 +1,3 @@
+[submodule "java/helloworld"]
+	path = java/helloworld
+	url = https://github.com/Coveros/helloworld
